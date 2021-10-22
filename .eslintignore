@@ -1,0 +1,7 @@
+# configs
+*.config.js
+webpack.*.js
+
+# build
+build/
+public/
